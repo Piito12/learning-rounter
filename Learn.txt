@@ -1,0 +1,3 @@
+node.js สามารถ run Javascripe นอกเว็บ ได้
+- ทำให้ สะดวก มากขึ้น ใน การ deverlope
+ 

@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "MyProjectDjango"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Coding"
+	}
+}

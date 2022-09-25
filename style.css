@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.box-container{
+    background-color: aqua;
+    border: 3px solid blue;
+    padding: 40px;
+}
+
+.box-text{
+    width: 20px;
+    height: 20px;
+    font-size: 30px;
+    color: white;
+    border: 3px yellow;
+    border-style: dashed;
+    text-align: center;
+}
+
+.box{
+    padding: 30px;
+    background-color: blueviolet;
+    margin:  20px;
+    text-align: center;
+}
+
+span{
+    text-align: center;
+}
